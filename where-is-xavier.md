@@ -2,7 +2,7 @@
 
 ###### Ce jeu de piste aura pour objectif de vous faire découvrir les différentes façons de dissimuler une information. Dans cette variante d’un CTF (Capture The Flag), vous trouverez des balises qui prendront la forme suivante: `EPI{Th1s_iS_4_Fl4g}`. Vous devez les trouver pour valider les challenges. 
 
-Voici le site ou vous pourrez avoir les indices de xavier:  https://ctfd.crooser.xyz/
+Voici le site ou vous pourrez avoir les indices de xavier:  [https://ctfd.crooser.xyz/](https://ctfd.crooser.xyz/login?next=%2Fchallenges%3F)
 
 ## Xavier, curieux personnage
 
