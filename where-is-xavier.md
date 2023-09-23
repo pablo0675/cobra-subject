@@ -25,6 +25,7 @@ Et c'est tout, Xavier à l'air d'un homme vraiment discret.
 
 Vous disposez de quelques ressources, des outils qui vous serviront à déchiffrer les indices et qui vous permettront ainsi de remonter la piste de Xavier:
 
+-[wordlist](https://raw.githubusercontent.com/danielmiessler/SecLists/master/Passwords/500-worst-passwords.txt): pour déchiffrer les bonnes données
 - [DCode](https://dcode.fr/): L'outil français de cryptographie le plus connu, déchiffrement et mathématiques !
 - [CyberChef](https://cyberchef.org/): Déchiffrer des messages avec des centaines de type d'encodage et de chiffrement.
 - `hexedit`: Cet éditeur de fichier au format héxadécimal vous permet d'ouvrir n'importe quel fichier et de lire son contenu. `hexedit --help` pour plus d'informations. \
